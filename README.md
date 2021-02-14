@@ -49,7 +49,7 @@ This is my incubation repository that I'm using to learn front-end. My goals are
     - CS153 - Operating Systems
     - CS152 - Compilers
     - CS171/170 - Machine Learning & Artificial Intelligence
-### <span>Mira Costa Community College</span> <span>2015-2018</span>
+### <span>Mira Costa Community College, AA Computer Science</span> <span>2015-2018</span>
   - Favorite Courses:
     - CS112 - Java 2 Programming
     - CS220 Intro Comp Architecture/Assembly Language
