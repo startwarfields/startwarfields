@@ -19,8 +19,8 @@ hand -->
 My research currently extends into 2 areas: Predictive Modeling and Programming Languages/Microfluidics. My work in these areas currently are in private repositories, as my research lab is working towards publications.
 
 Such work includes:
- - Data Science Framework Work-In-Progress
- - Extending Microfluidic Simulator
+ - A Data Science Framework 
+ - Extending a Microfluidic Simulator
 
 
 ## Projects
