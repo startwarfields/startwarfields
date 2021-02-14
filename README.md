@@ -27,7 +27,7 @@ Such work includes:
 
 ### <span>StarchJar</span> <span>Feb 2020</span>
 
-StarchJar is my incubation repository that I'm using to learn front-end
+[StarchJar](https://github.com/startwarfields/StarchJar) is my incubation repository that I'm using to learn front-end
 Goals are:
 
    - Visualize Data Science
