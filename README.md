@@ -25,15 +25,11 @@ Such work includes:
 
 ## Projects
 
-### <span>StarchJar</span> <span>Feb 2020</span>
-
-[StarchJar](https://github.com/startwarfields/StarchJar) is my incubation repository that I'm using to learn front-end
-Goals are:
+### <span>[StarchJar](https://github.com/startwarfields/StarchJar)</span> <span>Feb 2020</span>
+This is my incubation repository that I'm using to learn front-end. My goals are:
 
    - Visualize Data Science
-
    - Dynamic Content Generation
-
    - Easy Integration with sklearn
 ## Skills
  - Object-Oriented Programming, Novice Functional Programming
