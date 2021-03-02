@@ -35,7 +35,7 @@ This is my incubation repository that I'm using to learn front-end. My goals are
 ## Skills
  - Object-Oriented Programming, Novice Functional Programming
  - Python, C++ 
- - Data Science: (Regression)  sklearn v.22, xgboost , RAPIDS v0.17
+ - Data Science: (Regression & Forests)  sklearn v.22, xgboost , RAPIDS v0.17
  - Web development (Beginner): React, CSS, HTML, Javascript
  - Unix Systems
 ## Education
