@@ -26,7 +26,7 @@ Such work includes:
 
 ## Projects
 
-### <span>[StarchJar](https://github.com/startwarfields/StarchJar)</span> <span>Feb 2020</span>
+### <span>[StarchJar](https://github.com/startwarfields/StarchJar)</span> <span>Feb 2021</span>
 This is my incubation repository that I'm using to learn front-end. My goals are:
 
    - Visualize Data Science
