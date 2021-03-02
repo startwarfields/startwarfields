@@ -37,7 +37,8 @@ This is my incubation repository that I'm using to learn front-end. My goals are
  - Python 3.7/3.8, C++ v14
  - Data Science: (Regression & Forests)  sklearn v.22, xgboost , RAPIDS v0.17
  - Web development (Beginner): React, CSS, HTML, Javascript
- - Unix Systems
+ - Unix Systems (Terminal setup, WSL2 configuration SSH Keys, etc)
+ - VSCode preferred dev environment (with lots of extensions)
 ## Education
 
 ### <span>University of Riverside, PhD Computer Science</span> <span>2020 - Current</span>
