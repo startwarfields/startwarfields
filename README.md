@@ -9,8 +9,7 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Graduate Student researching Preditive Modeling and Programming Languages applied to Microfluidics.
-I typically work in Python and C++, but am currently learning front end!
+This readme is very outdated. Updated TBD. 
 
 ## Experience
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
