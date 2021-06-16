@@ -17,33 +17,26 @@ I typically work in Python and C++, but am currently learning front end!
 hand -->
 ### <span>(Research Aspect) Graduate Student</span> <span>Jan 2020 -- Current</span>
 
-My research currently extends into 2 areas: Predictive Modeling and Programming Languages/Microfluidics. My work in these areas currently are in private repositories, as my research lab is working towards publications.
-
-Such work includes:
- - A Data Science Framework 
- - Extending a Microfluidic Simulator
-
+<stub for now>
 
 ## Projects
 
-### <span>[StarchJar](https://github.com/startwarfields/StarchJar)</span> <span>Feb 2021</span>
-This is my incubation repository that I'm using to learn front-end. My goals are:
+### None Currently
 
-   - Visualize Data Science
-   - Dynamic Content Generation
-   - Easy Integration with sklearn
 ## Skills
  - Object-Oriented Programming, Novice Functional Programming
- - Python 3.7/3.8, C++ 11
+ - Python 3.7/3.8, C++ 14
  - Data Science: (Regression & Forests)  sklearn v.22, xgboost , RAPIDS v0.17
- - Web development (Beginner): React, CSS, HTML, Javascript
  - Unix Systems (Terminal setup, WSL2 configuration, SSH Keys, etc)
  - VSCode preferred dev environment (with lots of extensions)
 ## Education
 
 ### <span>University of Riverside, PhD Computer Science</span> <span>2020 - Current</span>
+  - GPA 3.55
   - Favorite Courses:
-    - to be determined!
+    - Software Testing & Formal Verification
+    - Synthesis of Digital Systems
+    - Computer Security
     
 ### <span>University of Riverside, BS Computer Science</span> <span>2018-2020</span>
   - GPA 3.33
