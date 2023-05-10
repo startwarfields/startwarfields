@@ -1,5 +1,9 @@
 <!-- The (first) h1 will be used as the <title> of the HTML page -->
 # Jonathan Meyer
+
+### About Me
+Hello! I'm a recent Masters in Computer Science gradute with 6 months of industry experience. I'm looking for software engineering roles focused on scaling applied machine learning.
+
 ## Active Projects
  * [Refine ORE with Containers](https://github.com/users/startwarfields/projects/3)
 
