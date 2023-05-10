@@ -7,7 +7,7 @@ Hello! I'm a recent Masters in Computer Science gradute with 6 months of industr
 ## Active Projects
  * [Refine ORE with Containers](https://github.com/users/startwarfields/projects/3)
 
-## Repositories
+## Highlighted Repositories
 * [ORE](https://github.com/startwarfields/ORE)
 
 ## Development Environment & Etc
