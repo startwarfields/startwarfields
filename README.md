@@ -2,17 +2,14 @@
 # Jonathan Meyer 
 
 ### About Me
-Hello! I'm a recent Masters in Computer Science gradute with 6 months of industry experience. I'm looking for software engineering roles focused on scaling applied machine learning. Check out my website [startwarfields](https://startwarfields.com/)
+Hello! I'm a recent Masters in Computer Science gradute with 6 months of industry experience. I'm looking for software engineering roles. My interests are Web Development, Machine Learning, and Infrastructure. Check out my website [startwarfields](https://startwarfields.com/)
 
-## Active Projects
-- [x] [Refine ORE with a containerized web interface](https://github.com/users/startwarfields/projects/3)
-  - [x] Web Interface
-  - [x] Containerized
-  - [x] Display on personal website
- - Check out https://t3rra-viz-startwarfields.vercel.app/ 
 ## Highlighted Repositories
-* [ORE](https://github.com/startwarfields/ORE)
 * [T3rra Viz](https://github.com/startwarfields/t3rra-viz)
+  * create-t3-app showcasing native typescript inference of a machine learning model using onnxruntime-web
+* [ORE](https://github.com/startwarfields/ORE)
+  * cross-language machine learning project  
+
 
 ## Development Environment & Etc
  * Neovim
