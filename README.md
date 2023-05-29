@@ -6,7 +6,7 @@ Hello! I'm a recent Masters in Computer Science gradute with 6 months of industr
 
 ## Highlighted Repositories
 * [T3rra Viz](https://github.com/startwarfields/t3rra-viz)
-  * create-t3-app showcasing native typescript inference of a machine learning model using onnxruntime-web
+ * Machine learning x Typescript via create-t3-app and onnxruntime
 * [ORE](https://github.com/startwarfields/ORE)
   * cross-language machine learning project  
 
