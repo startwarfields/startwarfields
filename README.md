@@ -13,7 +13,7 @@ Hello! I'm a recent Masters in Computer Science gradute with 6 months of industr
 
 ## Development Environment & Etc
  * Neovim
- * Fedora & i3wm
+ * Pop_OS!
  * Split Ortholinear Keyboard with Blue switches 
  * Chicken Wing enjoyer
 
