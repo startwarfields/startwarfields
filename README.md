@@ -20,6 +20,4 @@ Hello! I'm a recent Masters in Computer Science gradute with 6 months of industr
 ---
 ### Statistics
 
-[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=startwarfields&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=startwarfields&theme=gruvbox&layout=compact&hide=css,scss,HTTP,Pug)](https://github.com/anuraghazra/github-readme-stats)
