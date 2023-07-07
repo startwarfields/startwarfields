@@ -1,9 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jonathan Meyer
 ======================================================================================================================================
+![](https://github.com/startwarfields/startwarfields/blob/master/sick_banner.jpg)
+
 
 Looking for SWE roles | Computer Science, M.S - 2022
 ----------------------------------------------------
-
 I've been learning software development for 6 years. I started with Java, C++, and Python but I have recently started learning full stack web development. 
 
 * 🌍  I'm based in California, willing to relocate
