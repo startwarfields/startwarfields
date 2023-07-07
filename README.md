@@ -20,6 +20,7 @@ src="https://img.shields.io/github/followers/startwarfields?logo=github&style=fo
 
 <p align="center">
 <b>Skills</b>
+</p>
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -45,7 +46,7 @@ src="https://img.shields.io/github/followers/startwarfields?logo=github&style=fo
 
 <p align="center">
 <b>My GitHub Stats</b>
- 
+</p>
 <p align="center">
 <a href="https://github.com/startwarfields" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=startwarfields&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide=css,scss,HTTP,Pug&hide_border=true&locale=en&custom_title=Top%6%Languages" alt="Top Languages" /></a>
 </p>
