@@ -53,7 +53,3 @@ src="https://img.shields.io/github/followers/startwarfields?logo=github&style=fo
 </p>
 
 <p align="center">
-<b>Support Me</b>
- <p align="center">
-<a href="https://www.buymeacoffee.com/startwarfields"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
