@@ -9,7 +9,7 @@ I've been learning software development for 6 years. I started with Java, C++, a
 * 🌍  I'm based in California, willing to relocate
 * 🖥️  See my portfolio at [startwarfields.com](http://startwarfields.com)
 * ✉️  You can contact me at [j.warfieldmeyer@gmail.com](mailto:j.warfieldmeyer@gmail.com)
-* 🚀  I'm currently working on [hiremeplease.lol](http://https://www.hiremeplease.lol/)
+* 🚀  I'm currently working on [hiremeplease.lol](https://www.hiremeplease.lol/)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Web Development, Machine Learning, Infrastructure
 * ⚡  Favorite food: chicken wings
