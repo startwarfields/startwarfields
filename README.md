@@ -10,13 +10,6 @@ Hello! I'm a recent Masters in Computer Science gradute with 6 months of industr
 * [ORE](https://github.com/startwarfields/ORE)
   * cross-language machine learning project  
 
-
-## Development Environment & Etc
- * Neovim
- * Pop_OS!
- * Split Ortholinear Keyboard with Blue switches 
- * Chicken Wing enjoyer
-
 ---
 ### Statistics
 
