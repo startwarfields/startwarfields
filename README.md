@@ -1,11 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jonathan
 ======================================================================================================================================
 ![](https://github.com/startwarfields/startwarfields/blob/master/sick_banner.jpg)
-
-
-Looking for SWE roles | Computer Science, M.S - 2022
-----------------------------------------------------
-I am passionate about the intersection of Machine Learning and Web Development. I have a formal background in computer science and real-world experience in machine learning. Recently I've been learning web development on my own. I'm currently studying React through [Frontend Masters](https://frontendmasters.com/)
 
 * 🌍  Southern California | Remote & Relocation anywhere
 * 🖥️  See my portfolio at [startwarfields.com](http://startwarfields.com)
