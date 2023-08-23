@@ -12,8 +12,6 @@ I am passionate about the intersection of Machine Learning and Web Development. 
 * ✉️  You can contact me at [startwarfields@gmail.com](mailto:startwarfields@gmail.com)
 * 🚀  I'm currently working on [hiremeplease.lol](https://www.hiremeplease.lol/)
 * 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Web Development, Machine Learning, Infrastructure
-* ⚡  Favorite food: chicken wings
 
 <a href="https://www.github.com/startwarfields" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/startwarfields?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
