@@ -1,4 +1,4 @@
-======================================================================================================================================
+
 ![](https://github.com/startwarfields/startwarfields/blob/master/sick_banner.jpg)
 
 * 🌍  Southern California | Remote & Relocation anywhere
