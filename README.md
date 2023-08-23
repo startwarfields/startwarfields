@@ -9,7 +9,7 @@ I am passionate about the intersection of Machine Learning and Web Development. 
 
 * 🌍  Southern California | Remote & Relocation anywhere
 * 🖥️  See my portfolio at [startwarfields.com](http://startwarfields.com)
-* ✉️  You can contact me at [startwarfields@gmail.com](mailto:j.warfieldmeyer@gmail.com)
+* ✉️  You can contact me at [startwarfields@gmail.com](mailto:startwarfields@gmail.com)
 * 🚀  I'm currently working on [hiremeplease.lol](https://www.hiremeplease.lol/)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Web Development, Machine Learning, Infrastructure
