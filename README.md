@@ -3,7 +3,6 @@
 
 * 🖥️  See my portfolio at [startwarfields.com](http://startwarfields.com)
 * ✉️  You can contact me at [startwarfields@gmail.com](mailto:startwarfields@gmail.com)
-* 🚀  I'm currently working on [hiremeplease.lol](https://www.hiremeplease.lol/)
 * 🧠  I'm learning React
 
 <a href="https://www.github.com/startwarfields" target="_blank" rel="noreferrer"><img
